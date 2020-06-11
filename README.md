@@ -9,6 +9,7 @@ Do not download the files in this repository. Copying the contents is easier.
 ### Prerequisites
 
 PDFtoPrinter <a href="http://www.columbia.edu/~em36/pdftoprinter.html">download here</a> (from Columbia University in New York)
+
 Microsoft Outlook (non-web version)
 
 ### Installing
